@@ -1,0 +1,66 @@
+body{
+padding:0;
+margin:0;
+}
+
+table{
+width:100%;
+height:100%;
+background-color: rgba(0,0,24,0.2);
+
+
+}
+
+td{
+color:black;
+border: 1px  solid   black; 
+
+
+}
+
+td:hover{
+     background-color:yellow;
+border: 1px  dotted  black; 
+}
+
+tr{
+color:blue;
+text-transform:uppercase;
+font-weight:bold;
+
+
+}
+
+tr:hover{
+background-color:white;
+
+}
+
+caption{
+border: 2px   dashed   black;
+text-align :center;
+font-weight:bold;
+font-size:30px;
+}
+
+caption:hover{
+background-color:Yellow;
+border: 2px   dotted  black;
+
+}
+
+
+input{
+font-weight :bold;
+
+
+}
+
+input:hover{
+color:blue;
+    text-decoration: blink;
+}
+
+
+
+
